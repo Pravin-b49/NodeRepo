@@ -1,2 +1,2 @@
 # NodeRepo
-NodeMiniProject
+Node Small Project
