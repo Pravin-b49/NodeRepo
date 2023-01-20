@@ -1,2 +1,2 @@
 # NodeRepo
-Node Small Project
+Node Small Project with mysql(sequelize)
